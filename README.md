@@ -2,6 +2,8 @@
 
 This is a simple tool for printing cryptocurrency paper wallets to be used in combination with any paper wallet generator. Follow links in the bottom if you need more information.
 
+![Ripple wallet](xrp_example.png)
+
 ## Virtualenv and requirements
 ```bash
 $ virtualenv -p python3 env
